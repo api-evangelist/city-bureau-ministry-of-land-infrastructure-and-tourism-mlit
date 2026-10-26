@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-City Bureau, Ministry of Land, Infrastructure and Tourism (MLIT) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.mlit.go.jp/plateau/
+The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) of Japan operates the PLATEAU project, a nationwide initiative to develop and open 3D city models. It provides extensive geospatial data, APIs, and tools for urban planning, disaster prevention, and tourism, supporting developers, researchers, and public agencies with open data and services.
+
+**Areas:** Government · Geospatial · OpenData · UrbanPlanning · Japan
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mlit.go.jp/plateau/)
+- [Documentation](https://www.mlit.go.jp/plateau/)
+- [API reference](https://www.mlit.go.jp/plateau/open-data/)
+- [Support](https://www.mlit.go.jp/plateau/contact/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/city-bureau-ministry-of-land-infrastructure-and-tourism-mlit/](https://apis.io/providers/city-bureau-ministry-of-land-infrastructure-and-tourism-mlit/).
